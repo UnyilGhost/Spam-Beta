@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "Spam-Beta v2"
+toilet -f slant --gay "Spam-Beta"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
