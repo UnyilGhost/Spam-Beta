@@ -1,16 +1,16 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "Spam-Beta"
+toilet -f slant --gay "SpamBeta"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
 echo "\033[33;1m Author: UnyilGhost"
 sleep 1
-echo "\033[32;1m ★contack: unyilghost@gmail.com"
+echo "\033[32;1m ★contact: unyilghost@gmail.com"
 sleep 1
 echo "\033[34;1m ★PhantomGhost"
 sleep 1
-echo "\033[36;1m Spam Yang Tersedia :"
+echo "\033[36;1m Daftar Spam Yang Tersedia :"
 echo "1. Tokopedia"
 echo "2. Telkomsel"
 echo "3. Matahari Mall"
