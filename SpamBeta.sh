@@ -152,8 +152,8 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "Spam-Beta"
-echo "\033[31;1mNama tools: Spam-Beta"
+toilet -f slant --gay "SpamBeta"
+echo "\033[31;1mNama tools: SpamBeta"
 sleep 1
 echo "\033[33;1mKarya: UnyilGhost Decode By Handika Pratama(V2 By UnyilDecode)"
 sleep 1
@@ -173,7 +173,7 @@ sleep 1
 echo "And All Member Indonesia Security Lite"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAM.sh
+sh SpamBeta.sh
 fi
 
 if
