@@ -34,7 +34,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 if
@@ -48,7 +48,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 if [ $mrrm = 3 ] || [ $mrrm = 3 ]
@@ -61,7 +61,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 
@@ -75,7 +75,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 if
@@ -89,7 +89,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 if
@@ -103,7 +103,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 if
@@ -117,7 +117,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 if
@@ -131,7 +131,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 if
@@ -145,7 +145,7 @@ echo "\033[31;1m tunggu 2 detik untuk kembali"
 
 sleep 2
 
-sh Spam-Beta.sh
+sh SpamBeta.sh
 fi
 
 if
